@@ -1,0 +1,34 @@
+_repo: Images-exotiques-et-francaises_70340
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Florian-Parmentier
+    gutenberg_agent_id: '55715'
+    url: http://www.gutenberg.org/2009/agents/55715
+creator:
+  author:
+    agent_name: Mille, Pierre
+    birthdate: 1864
+    deathdate: 1941
+    gutenberg_agent_id: '6263'
+    url: http://www.gutenberg.org/2009/agents/6263
+    wikipedia: https://fr.wikipedia.org/wiki/Pierre_Mille
+description: ''
+gutenberg_issued: '2023-03-21'
+identifiers:
+  gutenberg: '70340'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k5745600d
+pgterms:marc905: 20230304080656mille
+pgterms:marc906: '1922'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This file was produced from images generously made
+  available by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: '  $aFrance :$béditions du fauconnier, $c1922.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Images exotiques et françaises
+url: http://www.gutenberg.org/ebooks/70340
